@@ -1,1 +1,1 @@
-python mytest.py
+python web app.py
